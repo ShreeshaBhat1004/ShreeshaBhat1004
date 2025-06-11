@@ -4,4 +4,4 @@ HI :)
 
 ![](https://komarev.com/ghpvc/?username=ShreeshaBhat1004)
 
-[Resume](
+[Resume](https://github.com/ShreeshaBhat1004/ShreeshaBhat1004/blob/main/Resume.pdf)
